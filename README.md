@@ -13,6 +13,7 @@
 
 ### 수상
 - SSAFY 1학기 성적 우수상
+- SSAFY 2학기 공통프로젝트 1등
 
 ## 🛠 Tech Stack
 
@@ -26,16 +27,15 @@
 
 ### DevOps, CI/CD, AWS
 
-- **Learning Skills** : <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white"/> <img src="https://img.shields.io/badge/AWS EC2%20-%23FF9900.svg?&style=flat&logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/Docker%20-2496ED.svg?&style=flat&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/Jenkins-D24939.svg?&style=flat&logo=Jenkins&logoColor=white"/>
+- **Confident Skills** : <img src="https://img.shields.io/badge/Docker%20-2496ED.svg?&style=flat&logo=Docker&logoColor=white"/>
+  
+- **Learning Skills** : <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white"/> <img src="https://img.shields.io/badge/AWS EC2%20-%23FF9900.svg?&style=flat&logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/Jenkins-D24939.svg?&style=flat&logo=Jenkins&logoColor=white"/>
 
 
 ### Front-end
 
 - **Confident Skills** : 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/> 
-
-- **Learning Skills** : 
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/Pinia-FFD43B?style=flat&logo=Vue.js&logoColor=white"/> 
 
 
 ### Collaboration
