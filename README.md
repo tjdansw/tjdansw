@@ -1,9 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=2c3e50&height=110&section=header&text=Seongmun%20Woo&fontSize=60&fontAlign=30)
 
-## 🧑🏻‍💻 About me
-안녕하세요 백앤드 개발을 공부하고 있는 우성문입니다.<br>
-서로 다양한 의견을 토론하며 함께 성장하는 것을 좋아합니다
-
 ## 🌏 Activities
 
 | 단체명 | 활동 기간 |
